@@ -11,8 +11,8 @@ Software Engineer
 
 ##Agenda
 
-*	Intros
-*	What is Web Development?
+*	Intros (We covered this in Class Zero)
+*	What is Web Development? Baby don't hurt me?
 *	Bash Commands
 *	Using GitHub
 
@@ -77,10 +77,18 @@ Let's define a few terms:
 * Choose the right OS, editors, & tools for your projects.
 * Leverage the online community's vast libraries and documentation.
 * Spread the knowledge you gain, and give back to the community when you can.
+  * Share it with your class
 * Take pride & and joy in what you work on.
 * Be efficient:
   * Use the keyboard as much as possible
   * If you find yourself doing the same thing repeatedly, automate it
+  * RTFM
+  * Then ask questions :D
+    * This will save you countless hours
+  * Hack your brain
+    * If you have no one to talk to, talk to a playing card -- Jake Moffet
+    * If you are blocked, work on something else.
+    * divide and conquer to make things easier on yourself
 
 ---
 
